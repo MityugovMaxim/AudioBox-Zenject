@@ -1,7 +1,7 @@
 {
-    "name": "Zenject",
+    "name": "Zenject.Signals",
     "references": [
-        "GUID:7bee042ad46d246598a15d2bf6ef15a3"
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

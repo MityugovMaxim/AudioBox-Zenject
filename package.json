@@ -1,6 +1,6 @@
   
 {
-	"name": "com.mathijsbakker.extenject",
+	"name": "com.audiobox.zenject",
 	"displayName": "AudioBox Zenject",
 	"version": "9.2.0",
 	"description": "Dependency Injection Framework for Unity3D",
